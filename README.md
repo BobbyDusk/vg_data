@@ -11,7 +11,9 @@ If you know any data tools or data providers for the video game industry missing
 |[Game Discover Co](https://gamediscover.co/)|||
 |[Gameplainer](https://gameplainer.com/)|||
 |[Game-Stats.com](https://games-stats.com/)|||
+|[How To Market A Game](https://howtomarketagame.com/)|||
 |[IGDB](https://www.igdb.com/)|||
+|[IndieBI](https://indiebi.com/)|||
 |[Level Up](https://www.levelup-analytics.com/)|||
 |[Markan](https://markan.games)|||
 |[Moby Games](https://www.mobygames.com/)|||
