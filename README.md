@@ -3,7 +3,7 @@
 If you know any data tools or data providers for the video game industry missing from this list, you can create an issue in the top left corner.
 
 |Name|Pricing|Platform(s)|Description|
-|---|---|---|
+|---|---|---|---|
 |[App Magic](https://appmagic.rocks/top-charts/apps)||Mobile||
 |[Apptica](https://apptica.com/en/)||Mobile|
 |[Belgian Video Game Industry](https://gameindustry.be/)||||
