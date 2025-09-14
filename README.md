@@ -2,29 +2,38 @@
 
 If you know any data tools or data providers for the video game industry missing from this list, you can create an issue in the top left corner.
 
-|Name|Pricing|Description|
+|Name|Pricing|Platform(s)|Description|
 |---|---|---|
-|[Belgian Video Game Industry](https://gameindustry.be/)|||
-|[Gamalytic](https://gamalytic.com/)|||
-|[GameAnalytics](https://www.gameanalytics.com/)|||
-|[Game Data Core](https://gamedatacore.ai/)|||
-|[Game Discover Co](https://gamediscover.co/)|||
-|[Gameplainer](https://gameplainer.com/)|||
-|[Game-Stats.com](https://games-stats.com/)|||
-|[How To Market A Game](https://howtomarketagame.com/)|||
-|[IGDB](https://www.igdb.com/)|||
-|[IndieBI](https://indiebi.com/)|||
-|[Level Up](https://www.levelup-analytics.com/)|||
-|[Markan](https://markan.games)|||
-|[Moby Games](https://www.mobygames.com/)|||
-|[Newzoo](https://newzoo.com/)|||
-|[Niklas Notes](https://niklasnotes.com/dashboard)|||
-|[PlayTracker](https://playtracker.net/)|||
-|[Second Stage](https://secondstage.io/)|||
-|[SteamDB](https://steamdb.info/)|free|Aggregator of Steam data|
-|[Steam Review Explorer](https://project.joshhills.dev/steam-review-explorer/)|||
-|[SteamSpy](https://steamspy.com/)|free|Aggregator of Steam data with api|
+|[App Magic](https://appmagic.rocks/top-charts/apps)||Mobile||
+|[Apptica](https://apptica.com/en/)||Mobile|
+|[Belgian Video Game Industry](https://gameindustry.be/)||||
+|[Circana](https://www.circana.com/industries/video-games)||All||
+|[Flemish Games Association](https://www.flega.be/)||PC & Console||
+|[Gamalytic](https://gamalytic.com/)||PC||
+|[GameAnalytics](https://www.gameanalytics.com/)||PC||
+|[Game Data Core](https://gamedatacore.ai/)||PC|
+|[Gamedev Reports](https://gamedevreports.substack.com/)||All||
+|[Game Discover Co](https://gamediscover.co/)||PC||
+|[Gameplainer](https://gameplainer.com/)||PC||
+|[Gamesight](https://gamesight.io/)||||
+|[Game-Stats.com](https://games-stats.com/)||PC||
+|[How To Market A Game](https://howtomarketagame.com/)||PC||
+|[IGDB](https://www.igdb.com/)||PC||
+|[IndieBI](https://indiebi.com/)||PC||
+|[Layer Licensing](https://www.layerlicensing.com/collab-tracker)||||
+|[Level Up](https://www.levelup-analytics.com/)||PC||
+|[Markan](https://markan.games)||PC||
+|[Moby Games](https://www.mobygames.com/)||PC||
+|[Newzoo](https://newzoo.com/)||All||
+|[Niklas Notes](https://niklasnotes.com/dashboard)||PC||
+|[PlayTracker](https://playtracker.net/)||PC||
+|[Second Stage](https://secondstage.io/)||PC||
+|[Sensor Tower](https://sensortower.com/)||Mobile||
+|[SteamDB](https://steamdb.info/)|free|PC|Aggregator of Steam data|
+|[Steam Review Explorer](https://project.joshhills.dev/steam-review-explorer/)||PC||
+|[SteamSpy](https://steamspy.com/)|free|PC|Aggregator of Steam data with api|
 |[Turbine Games Consulting](https://turbine.games/)|||
-|[VGChartz](https://www.vgchartz.com/)|free||
-|[Video Game Insights](https://app.sensortower.com/vgi/)|free, 20$-30$ for indies, special pricing for larger business||
+|[VGChartz](https://www.vgchartz.com/)|free|PC||
+|[Video Game Insights](https://app.sensortower.com/vgi/)|free, 20$-30$ for indies, special pricing for larger business|PC||
+|[Video Games Europe](https://www.videogameseurope.eu/)|||
 
