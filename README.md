@@ -1,6 +1,6 @@
 # Video Game Data Tools and Providers
 
-If you know any data tools or data providers for the video game industry missing from this list, you can create an issue in the top left corner.
+If you know any data tools or data providers for the video game industry missing from this list, you can create an issue or a pull request in the top left corner.
 
 |Name|Pricing|Platform(s)|Description|
 |---|---|---|---|
