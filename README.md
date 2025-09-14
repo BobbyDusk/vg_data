@@ -18,6 +18,7 @@ If you know any data tools or data providers for the video game industry missing
 |[Gamesight](https://gamesight.io/)||||
 |[Game-Stats.com](https://games-stats.com/)||PC||
 |[How To Market A Game](https://howtomarketagame.com/)||PC||
+|[HushCrasher](https://hushcrasher.com/)||PC||
 |[IGDB](https://www.igdb.com/)||PC||
 |[IndieBI](https://indiebi.com/)||PC||
 |[Layer Licensing](https://www.layerlicensing.com/collab-tracker)||||
