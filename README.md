@@ -8,6 +8,7 @@ If you know any data tools or data providers for the video game industry missing
 |[Apptica](https://apptica.com/en/)||Mobile|
 |[Belgian Video Game Industry](https://gameindustry.be/)||||
 |[Circana](https://www.circana.com/industries/video-games)||All||
+|[DataHumble](https://datahumble.com/)||PC||
 |[Flemish Games Association](https://www.flega.be/)||PC & Console||
 |[Gamalytic](https://gamalytic.com/)||PC||
 |[GameAnalytics](https://www.gameanalytics.com/)||PC||
