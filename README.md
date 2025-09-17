@@ -17,6 +17,7 @@ If you know any data tools or data providers for the video game industry missing
 |[Game Discover Co](https://gamediscover.co/)||PC||
 |[Gameplainer](https://gameplainer.com/)||PC||
 |[Gamesight](https://gamesight.io/)||||
+|[GameRefinery](https://www.gamerefinery.com/)||Mobile||
 |[Game-Stats.com](https://games-stats.com/)||PC||
 |[How To Market A Game](https://howtomarketagame.com/)||PC||
 |[HushCrasher](https://hushcrasher.com/)||PC||
