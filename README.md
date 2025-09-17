@@ -4,7 +4,7 @@ If you know any data tools or data providers for the video game industry missing
 
 |Name|Pricing|Platform(s)|Description|
 |---|---|---|---|
-|[Alinea Analytics])https://alineaanalytics.com/)||PC & Console||
+|[Alinea Analytics](https://alineaanalytics.com/)||PC & Console||
 |[App Magic](https://appmagic.rocks/top-charts/apps)||Mobile||
 |[Apptica](https://apptica.com/en/)||Mobile|
 |[Belgian Video Game Industry](https://gameindustry.be/)||||
