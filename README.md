@@ -25,6 +25,7 @@ If you know any data tools or data providers for the video game industry missing
 |[HushCrasher](https://hushcrasher.com/)||PC||
 |[IGDB](https://www.igdb.com/)||PC||
 |[IndieBI](https://indiebi.com/)|Always free for small indie teams. Free trials, starting from $49 afterwards.|All|Sales analytics & revenue optimization platform. It helps automatically collect your data from all the major platforms.|
+|[IsThereAnyDeal](https://isthereanydeal.com/)|free|PC|Price aggregator|
 |[Layer Licensing](https://www.layerlicensing.com/collab-tracker)||||
 |[Level Up](https://www.levelup-analytics.com/)||PC||
 |[Markan](https://markan.games)||PC||
@@ -35,6 +36,7 @@ If you know any data tools or data providers for the video game industry missing
 |[Second Stage](https://secondstage.io/)||PC||
 |[Sensor Tower](https://sensortower.com/)||Mobile||
 |[SteamDB](https://steamdb.info/)|free|PC|Aggregator of Steam data|
+|[SteamLadder](https://steamladder.com/)|free|PC|Ranking of Steam profiles according to various metrics|
 |[SteamPeek](steampeek.hu)|free|PC|Recommendation system|
 |[Steam Review Explorer](https://project.joshhills.dev/steam-review-explorer/)||PC||
 |[SteamSpy](https://steamspy.com/)|free|PC|Aggregator of Steam data with api|
