@@ -4,6 +4,7 @@ If you know any data tools or data providers for the video game industry missing
 
 |Name|Pricing|Platform(s)|Description|
 |---|---|---|---|
+|[50GamesLike](https://www.50gameslike.com/)|free|PC|Recommendation system|
 |[Alinea Analytics](https://alineaanalytics.com/)||PC & Console||
 |[App Magic](https://appmagic.rocks/top-charts/apps)||Mobile||
 |[Apptica](https://apptica.com/en/)||Mobile|
@@ -34,6 +35,7 @@ If you know any data tools or data providers for the video game industry missing
 |[Second Stage](https://secondstage.io/)||PC||
 |[Sensor Tower](https://sensortower.com/)||Mobile||
 |[SteamDB](https://steamdb.info/)|free|PC|Aggregator of Steam data|
+|[SteamPeek](steampeek.hu)|free|PC|Recommendation system|
 |[Steam Review Explorer](https://project.joshhills.dev/steam-review-explorer/)||PC||
 |[SteamSpy](https://steamspy.com/)|free|PC|Aggregator of Steam data with api|
 |[Turbine Games Consulting](https://turbine.games/)|||
