@@ -17,7 +17,7 @@ If you know any data tools or data providers for the video game industry missing
 |[Game Data Core](https://gamedatacore.ai/)||PC|
 |[Gamedev Reports](https://gamedevreports.substack.com/)||All||
 |[Game Discover Co](https://gamediscover.co/)||PC||
-|[Game Oracle](https://www.game-oracle.com/)|Free or 20$ per month for premium features)|PC|Research tools based on Steam.|
+|[Game Oracle](https://www.game-oracle.com/)|Free or $20 per month for premium features)|PC|Research tools based on Steam.|
 |[Gameplainer](https://gameplainer.com/)||PC||
 |[Gamesight](https://gamesight.io/)||||
 |[GameRefinery](https://www.gamerefinery.com/)||Mobile||
