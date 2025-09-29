@@ -31,6 +31,7 @@ If you know any data tools or data providers for the video game industry missing
 |[Level Up](https://www.levelup-analytics.com/)||PC||
 |[Markan](https://markan.games)||PC||
 |[Moby Games](https://www.mobygames.com/)||PC||
+|[Naavik](https://naavik.co/)||All|Gaming research, consulting and advisory firm|
 |[Newzoo](https://newzoo.com/)||All||
 |[Niklas Notes](https://niklasnotes.com/dashboard)||PC||
 |[PlayTracker](https://playtracker.net/)||PC||
