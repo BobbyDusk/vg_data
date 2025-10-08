@@ -25,6 +25,7 @@ If you know any data tools or data providers for the video game industry missing
 |[How To Market A Game](https://howtomarketagame.com/)||PC||
 |[HushCrasher](https://hushcrasher.com/)||PC||
 |[IGDB](https://www.igdb.com/)||PC||
+|[Impress](https://impress.games/)|24$ for indies, 64$ for studios|PC|Video Game Marketing data & analysis|
 |[IndieBI](https://indiebi.com/)|Always free for small indie teams. Free trials, starting from $49 afterwards.|All|Sales analytics & revenue optimization platform. It helps automatically collect your data from all the major platforms.|
 |[IsThereAnyDeal](https://isthereanydeal.com/)|free|PC|Price aggregator|
 |[Layer Licensing](https://www.layerlicensing.com/collab-tracker)||||
