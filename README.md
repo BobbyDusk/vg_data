@@ -22,6 +22,7 @@ If you know any data tools or data providers for the video game industry missing
 |[Gamesight](https://gamesight.io/)||||
 |[GameRefinery](https://www.gamerefinery.com/)||Mobile||
 |[Game-Stats.com](https://games-stats.com/)||PC||
+|[Homa](https://www.homagames.com/)||Mobile||
 |[How To Market A Game](https://howtomarketagame.com/)||PC||
 |[HushCrasher](https://hushcrasher.com/)||PC||
 |[IGDB](https://www.igdb.com/)||PC||
