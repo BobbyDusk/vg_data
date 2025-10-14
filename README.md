@@ -45,6 +45,7 @@ If you know any data tools or data providers for the video game industry missing
 |[Steam Review Explorer](https://project.joshhills.dev/steam-review-explorer/)||PC||
 |[SteamSpy](https://steamspy.com/)|free|PC|Aggregator of Steam data with api|
 |[SullyGnome](https://sullygnome.com/)|free|PC|Twitch stream analysis|
+|[ThinkingData](https://thinkingdata.io/)||PC||
 |[Turbine Games Consulting](https://turbine.games/)|||
 |[VGChartz](https://www.vgchartz.com/)|free|PC||
 |[Video Game Insights](https://app.sensortower.com/vgi/)|free, 20$-30$ for indies, special pricing for larger business|PC||
