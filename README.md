@@ -31,6 +31,7 @@ If you know any data tools or data providers for the video game industry missing
 |[IsThereAnyDeal](https://isthereanydeal.com/)|free|PC|Price aggregator|
 |[Layer Licensing](https://www.layerlicensing.com/collab-tracker)||||
 |[Level Up](https://www.levelup-analytics.com/)||PC||
+|[Lovelace](https://lovelace.gg/)||All||
 |[Markan](https://markan.games)||PC||
 |[Moby Games](https://www.mobygames.com/)||PC||
 |[Naavik](https://naavik.co/)||All|Gaming research, consulting and advisory firm|
