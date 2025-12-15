@@ -44,6 +44,7 @@ If you know any data tools or data providers for the video game industry missing
 |[SteamLadder](https://steamladder.com/)|free|PC|Ranking of Steam profiles according to various metrics|
 |[SteamPeek](steampeek.hu)|free|PC|Recommendation system|
 |[Steam Review Explorer](https://project.joshhills.dev/steam-review-explorer/)||PC||
+|[Steam Similarity](https://steam-similarity.streamlit.app/)||PC|Exploration of the similarity between games and the popularity of tags|
 |[SteamSpy](https://steamspy.com/)|free|PC|Aggregator of Steam data with api|
 |[SullyGnome](https://sullygnome.com/)|free|PC|Twitch stream analysis|
 |[ThinkingData](https://thinkingdata.io/)||PC||
