@@ -1,6 +1,6 @@
 # Video Game Data Tools and Providers
 
-If you know any data tools or data providers for the video game industry missing from this list, you can create an issue or a pull request in the top left corner.
+If you know any data tools or data providers for the video game industry that are missing from this list, you can create an issue or a pull request in the top left corner or you can contact me at [info@markan.games](mailto:info@markan.games).
 
 |Name|Pricing|Platform(s)|Description|
 |---|---|---|---|
@@ -53,3 +53,6 @@ If you know any data tools or data providers for the video game industry missing
 |[Video Game Insights](https://app.sensortower.com/vgi/)|free, 20$-30$ for indies, special pricing for larger business|PC||
 |[Video Games Europe](https://www.videogameseurope.eu/)|||
 
+## Disclaimer
+
+I am the creator of one of the above tools, [Markan](https://markan.games), a plugin for Google Sheets and Microsoft Excel that allows you to perform market analysis for PC games.
