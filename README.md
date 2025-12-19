@@ -45,6 +45,7 @@ If you know any data tools or data providers for the video game industry that ar
 |[SteamPeek](steampeek.hu)|free|PC|Recommendation system|
 |[Steam Review Explorer](https://project.joshhills.dev/steam-review-explorer/)||PC||
 |[Steam Similarity](https://steam-similarity.streamlit.app/)||PC|Exploration of the similarity between games and the popularity of tags|
+|[Steam Summarize](https://www.steamsummarize.com/)||PC|Summarizes steam games using AI based on recent reviews|
 |[SteamSpy](https://steamspy.com/)|free|PC|Aggregator of Steam data with api|
 |[SullyGnome](https://sullygnome.com/)|free|PC|Twitch stream analysis|
 |[ThinkingData](https://thinkingdata.io/)||PC||
