@@ -23,6 +23,7 @@ If you know any data tools or data providers for the video game industry that ar
 |[Gamesight](https://gamesight.io/)||||
 |[GameRefinery](https://www.gamerefinery.com/)||Mobile||
 |[Games-Stats.com](https://games-stats.com/)||PC||
+|[Gaming Analytics](https://gaminganalytics.info)||PC||
 |[Homa](https://www.homagames.com/)||Mobile||
 |[How To Market A Game](https://howtomarketagame.com/)||PC||
 |[HushCrasher](https://hushcrasher.com/)||PC||
@@ -34,6 +35,7 @@ If you know any data tools or data providers for the video game industry that ar
 |[Level Up](https://www.levelup-analytics.com/)||PC||
 |[Lovelace](https://lovelace.gg/)||All||
 |[Markan](https://markan.games)||PC||
+|[Metacritic](https://www.metacritic.com/)||All||
 |[Moby Games](https://www.mobygames.com/)||PC||
 |[Naavik](https://naavik.co/)||All|Gaming research, consulting and advisory firm|
 |[Newzoo](https://newzoo.com/)||All||
