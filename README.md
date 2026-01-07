@@ -15,13 +15,14 @@ If you know any data tools or data providers for the video game industry that ar
 |[Gamalytic](https://gamalytic.com/)||PC||
 |[GameAnalytics](https://www.gameanalytics.com/)||PC||
 |[Game Data Core](https://gamedatacore.ai/)||PC|
+|[Game Data Crunch](https://www.gamedatacrunch.com/)||PC||
 |[Gamedev Reports](https://gamedevreports.substack.com/)||All||
 |[Game Discover Co](https://gamediscover.co/)||PC||
 |[Game Oracle](https://www.game-oracle.com/)|Free or $20 per month for premium features)|PC|Research tools based on Steam.|
 |[Gameplainer](https://gameplainer.com/)||PC||
 |[Gamesight](https://gamesight.io/)||||
 |[GameRefinery](https://www.gamerefinery.com/)||Mobile||
-|[Game-Stats.com](https://games-stats.com/)||PC||
+|[Games-Stats.com](https://games-stats.com/)||PC||
 |[Homa](https://www.homagames.com/)||Mobile||
 |[How To Market A Game](https://howtomarketagame.com/)||PC||
 |[HushCrasher](https://hushcrasher.com/)||PC||
@@ -40,10 +41,14 @@ If you know any data tools or data providers for the video game industry that ar
 |[PlayTracker](https://playtracker.net/)||PC||
 |[Second Stage](https://secondstage.io/)||PC||
 |[Sensor Tower](https://sensortower.com/)||Mobile||
+|[Steam 250](https://steam250.com/)||PC||
+|[SteamCharts](https://steamcharts.com/)||PC|Concurrent player count|
 |[SteamDB](https://steamdb.info/)|free|PC|Aggregator of Steam data|
+|[SteamGridDB](https://www.steamgriddb.com/)|Download video game assets|||
 |[SteamLadder](https://steamladder.com/)|free|PC|Ranking of Steam profiles according to various metrics|
 |[SteamPeek](https://steampeek.hu)|free|PC|Recommendation system|
 |[Steam Review Explorer](https://project.joshhills.dev/steam-review-explorer/)||PC||
+|[Steam Scout](https://togeproductions.com/SteamScout/)|Steam reviews breakdown|PC||
 |[Steam Similarity](https://steam-similarity.streamlit.app/)||PC|Exploration of the similarity between games and the popularity of tags|
 |[Steam Summarize](https://www.steamsummarize.com/)|free|PC|Summarizes steam games using AI based on recent reviews|
 |[SteamSpy](https://steamspy.com/)|free|PC|Aggregator of Steam data with api|
