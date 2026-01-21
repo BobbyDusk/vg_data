@@ -11,6 +11,7 @@ If you know any data tools or data providers for the video game industry that ar
 |[Belgian Video Game Industry](https://gameindustry.be/)||||
 |[Circana](https://www.circana.com/industries/video-games)||All||
 |[DataHumble](https://datahumble.com/)||PC||
+|[Entertainment Software association](https://www.theesa.com/data-insights/)||All||
 |[Flemish Games Association](https://www.flega.be/)||PC & Console||
 |[Gamalytic](https://gamalytic.com/)||PC||
 |[GameAnalytics](https://www.gameanalytics.com/)||PC||
@@ -22,9 +23,11 @@ If you know any data tools or data providers for the video game industry that ar
 |[Game Oracle](https://www.game-oracle.com/)|Free or $20 per month for premium features)|PC|Research tools based on Steam.|
 |[Gameplainer](https://gameplainer.com/)||PC||
 |[Gamesight](https://gamesight.io/)||||
+|[GamesIndustry.biz](https://www.gamesindustry.biz/)||All||
 |[GameRefinery](https://www.gamerefinery.com/)||Mobile||
 |[Games-Stats.com](https://games-stats.com/)||PC||
 |[Gaming Analytics](https://gaminganalytics.info)||PC||
+|[GWI](https://www.gwi.com/gaming)||All||
 |[Homa](https://www.homagames.com/)||Mobile||
 |[How To Market A Game](https://howtomarketagame.com/)||PC||
 |[HushCrasher](https://hushcrasher.com/)||PC||
