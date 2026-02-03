@@ -19,7 +19,7 @@ If you know any data tools or data providers for the video game industry that ar
 |[Game Data Crunch](https://www.gamedatacrunch.com/)||PC||
 |[Gamedev Reports](https://gamedevreports.substack.com/)||All||
 |[Game Discover Co](https://gamediscover.co/)||PC||
-|[gameopedia](https://gameopedia.com/)||PC & Console||
+|[gameopedia](https://gameopedia.com/)||PC & Console|They have three different tools: Braigent, Lumos and Metadata|
 |[Game Oracle](https://www.game-oracle.com/)|Free or $20 per month for premium features)|PC|Research tools based on Steam.|
 |[Gameplainer](https://gameplainer.com/)||PC||
 |[Gamesight](https://gamesight.io/)||||
@@ -38,7 +38,6 @@ If you know any data tools or data providers for the video game industry that ar
 |[Layer Licensing](https://www.layerlicensing.com/collab-tracker)||||
 |[Level Up](https://www.levelup-analytics.com/)||PC||
 |[Lovelace](https://lovelace.gg/)||All||
-|[Lumos](https://asklumos.com/)||PC||
 |[Markan](https://markan.games)||PC||
 |[Metacritic](https://www.metacritic.com/)||All||
 |[Moby Games](https://www.mobygames.com/)||PC||
