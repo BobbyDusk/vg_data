@@ -38,6 +38,7 @@ If you know any data tools or data providers for the video game industry that ar
 |[Layer Licensing](https://www.layerlicensing.com/collab-tracker)||||
 |[Level Up](https://www.levelup-analytics.com/)||PC||
 |[Lovelace](https://lovelace.gg/)||All||
+|[Lumos](https://asklumos.com/)||PC||
 |[Markan](https://markan.games)||PC||
 |[Metacritic](https://www.metacritic.com/)||All||
 |[Moby Games](https://www.mobygames.com/)||PC||
