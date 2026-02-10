@@ -45,8 +45,10 @@ If you know any data tools or data providers for the video game industry that ar
 |[Newzoo](https://newzoo.com/)||All||
 |[Niklas Notes](https://niklasnotes.com/dashboard)||PC||
 |[PlayTracker](https://playtracker.net/)||PC||
+|[Quantric Foundry](https://quanticfoundry.com/)||PC|Data provider of Audience and Motivational analysis|
 |[Second Stage](https://secondstage.io/)||PC||
 |[Sensor Tower](https://sensortower.com/)||Mobile||
+|[Solsten](https://solsten.io/solutions/gaming)||All||
 |[Steam 250](https://steam250.com/)||PC||
 |[SteamCharts](https://steamcharts.com/)||PC|Concurrent player count|
 |[SteamDB](https://steamdb.info/)|free|PC|Aggregator of Steam data|
