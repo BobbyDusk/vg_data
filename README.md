@@ -38,7 +38,7 @@ If you know any data tools or data providers for the video game industry that ar
 |[Level Up](https://www.levelup-analytics.com/)||PC||
 |[Lovelace](https://lovelace.gg/)||All||
 |[Lumos](https://asklumos.com/)||PC & Console|AI chatbot powered by the data of gameopedia.|
-|[Markan](https://markan.games)||PC||
+|[Markan](https://markan.games)|free|PC|A plugin for Microsoft Excel and Google Sheets that streamlines the process of performing market analysis. It mainly uses data from Steam and you can use it to easily create your own models.|
 |[Metacritic](https://www.metacritic.com/)||All||
 |[Moby Games](https://www.mobygames.com/)||PC||
 |[Naavik](https://naavik.co/)||All|Gaming research, consulting and advisory firm|
@@ -50,6 +50,7 @@ If you know any data tools or data providers for the video game industry that ar
 |[Sensor Tower](https://sensortower.com/)||Mobile||
 |[Solsten](https://solsten.io/solutions/gaming)||All||
 |[Steam 250](https://steam250.com/)||PC||
+|[Steambase](https://steambase.io/)|free|PC|Steam data|
 |[SteamCharts](https://steamcharts.com/)||PC|Concurrent player count|
 |[SteamDB](https://steamdb.info/)|free|PC|Aggregator of Steam data|
 |[SteamGridDB](https://www.steamgriddb.com/)|Download video game assets|||
@@ -60,6 +61,7 @@ If you know any data tools or data providers for the video game industry that ar
 |[Steam Similarity](https://steam-similarity.streamlit.app/)||PC|Exploration of the similarity between games and the popularity of tags|
 |[Steam Summarize](https://www.steamsummarize.com/)|free|PC|Summarizes steam games using AI based on recent reviews|
 |[SteamSpy](https://steamspy.com/)|free|PC|Aggregator of Steam data with api|
+|[StmStat](https://stmstat.com/)|free|PC|Steam data|
 |[SullyGnome](https://sullygnome.com/)|free|PC|Twitch stream analysis|
 |[ThinkingData](https://thinkingdata.io/)||PC||
 |[Turbine Games Consulting](https://turbine.games/)|||
