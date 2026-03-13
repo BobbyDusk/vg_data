@@ -44,6 +44,7 @@ If you know any data tools or data providers for the video game industry that ar
 |[Naavik](https://naavik.co/)||All|Gaming research, consulting and advisory firm|
 |[Newzoo](https://newzoo.com/)||All||
 |[Niklas Notes](https://niklasnotes.com/dashboard)||PC||
+|[Player Research](https://www.playerresearch.com/)||||
 |[PlayTracker](https://playtracker.net/)||PC||
 |[Quantric Foundry](https://quanticfoundry.com/)||PC|Data provider of Audience and Motivational analysis|
 |[Second Stage](https://secondstage.io/)||PC||
