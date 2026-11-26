@@ -23,6 +23,7 @@ If you know any data tools or data providers for the video game industry that ar
 |[Gameplainer](https://gameplainer.com/)||PC||
 |[Gamesight](https://gamesight.io/)||||
 |[GamesIndustry.biz](https://www.gamesindustry.biz/)||All||
+|[Game Industry Library](https://gameindustrylibrary.com)||All||
 |[GameRefinery](https://www.gamerefinery.com/)||Mobile||
 |[Games-Stats.com](https://games-stats.com/)||PC||
 |[Gaming Analytics](https://gaminganalytics.info)||PC||
