@@ -24,6 +24,7 @@ If you know any data tools or data providers for the video game industry that ar
 |[Gamesight](https://gamesight.io/)||||
 |[GamesIndustry.biz](https://www.gamesindustry.biz/)||All||
 |[GameRefinery](https://www.gamerefinery.com/)||Mobile||
+|[GamerScroll](https://gamerscroll.com/)|free|Mobile & PC|Daily top-grossing chart history for App Store and Google Play (US, Japan, Korea, Taiwan, China) and Steam concurrent players|
 |[Games-Stats.com](https://games-stats.com/)||PC||
 |[Gaming Analytics](https://gaminganalytics.info)||PC||
 |[GWI](https://www.gwi.com/gaming)||All||
